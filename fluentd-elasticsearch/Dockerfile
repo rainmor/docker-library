@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/fluentd-elasticsearc:v2.3.2
+FROM k8s.gcr.io/fluentd-elasticsearch:v2.2.0
 MAINTAINER Mosaicwang <mosaicwang@gmail.com>
