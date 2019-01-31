@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/fluentd-elasticsearch:v2.2.0
-MAINTAINER Mosaicwang <mosaicwang@gmail.com>
+FROM k8s.gcr.io/fluentd-elasticsearch:v2.4.0
+MAINTAINER xuejipeng <260894977@qq.com>
